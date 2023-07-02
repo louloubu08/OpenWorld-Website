@@ -1,0 +1,14 @@
+.depimages {
+    border-radius: 15px;
+    max-width: 95%;
+}
+
+.deptext {
+    color: white;
+    max-width: auto ;
+    font-size: 20px;
+    background-color: grey;
+    border-width: 15px;
+    border-radius: 15px;
+    border-color: grey;
+}
